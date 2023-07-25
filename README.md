@@ -1,10 +1,9 @@
-### Hi there 👋
 
-<!--
+ 
+##  Hi there 👋
+
 **Crystallying/Crystallying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 
 - 👋 Hi, I’m @Crystallying
 - 🔭 I’m currently working on DZS
@@ -14,5 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me yt147612165686@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 
