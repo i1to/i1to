@@ -5,16 +5,37 @@
   I'm a Junior C Embedded Engineer
 </h4>
 
+<h4 align="center">
 Here are some ideas to get you started:
-- 🔭 I’m currently working on DZS
-- 🌱 I’m currently learning linux c/c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yt147612165686@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</h4>
 
 <h4 align="center">
-  you can ask me about anything 💬<a href="https://github.com/Italink/Italink/issues/new" target="_blank" title="issue">here</a>
+- 🔭 I’m currently working on DZS
+</h4>
+
+<h4 align="center">
+- 🌱 I’m currently learning linux c/c++
+</h4>
+
+<h4 align="center">
+- 💞️ I’m looking to collaborate on ...
+</h4>
+
+<h4 align="center">
+- 📫 How to reach me yt147612165686@gmail.com
+</h4>
+
+<h4 align="center">
+- 😄 Pronouns: ...
+</h4>
+
+<h4 align="center">
+- ⚡ Fun fact: ...
+</h4>
+
+
+<h4 align="center">
+  you can ask me something ..💬<a href="https://github.com/Vollereito/Vollereito/issues/new" target="_blank" title="issue">here</a>
 </h4>
 
 <h5 align="center">
@@ -28,9 +49,5 @@ Here are some ideas to get you started:
 </h5>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-![](https://raw.githubusercontent.com/italink/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/italink/github-stats-transparent/output/generated/languages.svg)
 
 
