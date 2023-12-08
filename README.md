@@ -25,13 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me yt147612165686@gmail.com
 </h4>
 
-<h4 align="center">
-- 😄 Pronouns: ...
-</h4>
-
-<h4 align="center">
-- ⚡ Fun fact: ...
-</h4>
 
 
 <h4 align="center">
