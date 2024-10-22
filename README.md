@@ -1,19 +1,8 @@
 
 <h1 align="center">
-  Hi there ...
+  Hi  ...
 </h1> 
 
-<h4 align="center">
-  I'm a Junior C Embedded Engineer
-</h4>
-
-<h4 align="center">
-- 📫 How to reach me yt147612165686@gmail.com
-</h4>
-
-<h4 align="center">
-  you can ask me something ..💬<a href="https://github.com/Vollereito/Vollereito/issues/new" target="_blank" title="issue">here</a>
-</h4>
 
 <h5 align="center">
   <img src="https://i.postimg.cc/1tf08KD5/zhihu.png" height="12" width="12" />
