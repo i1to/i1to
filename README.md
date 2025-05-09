@@ -64,7 +64,7 @@ I maintain a technical blog at [i1to.github.io](https://i1to.github.io/) where I
 - **Technologies Used**: List of technologies
 - **Link**: [GitHub Repo/Live Demo]
 
-## � Archive Collection
+## 📚 Archive Collection
 
 This repository contains a collection of resources that I've gathered over time:
 
@@ -73,7 +73,7 @@ This repository contains a collection of resources that I've gathered over time:
 
 These collections are merged from my [Archive repository](https://github.com/i1to/Archive) and are continuously updated.
 
-## �📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=i1to&show_icons=true&theme=radical)
 
