@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi there, I'm i1to</h1>
 <p align="center">
-  <em>Software Developer | Technology Enthusiast | Lifelong Learner</em>
+  <em>Linux Network Developer | Technology Enthusiast | Lifelong Learner</em>
 </p>
 
 <div align="center">
@@ -11,19 +11,33 @@
   <a href="https://space.bilibili.com/306494243" target="_blank">
     <img src="https://i.postimg.cc/QMNJ3Dt7/bilibili.png" height="24" width="24" alt="Bilibili" />
   </a>&nbsp;&nbsp;
+  <a href="https://i1to.github.io/" target="_blank">
+    <img src="https://i.postimg.cc/9fJr2D5K/blog.png" height="24" width="24" alt="Blog" />
+  </a>&nbsp;&nbsp;
   <!-- You can add more social media icons here -->
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer with interests in [your specific interests, e.g., web development, machine learning, etc.]. I enjoy solving complex problems and creating efficient solutions. My goal is to [your career or personal goal].
+I'm a passionate Linux network developer specializing in network infrastructure and protocols. I enjoy solving complex networking problems and creating efficient solutions. My goal is to contribute to the advancement of network technologies and share knowledge with the community.
+
+## 📝 My Blog
+
+I maintain a technical blog at [i1to.github.io](https://i1to.github.io/) where I share insights, tutorials, and articles about Linux networking. Topics include:
+
+- Network protocol analysis
+- Linux kernel networking subsystem
+- Network performance optimization
+- Troubleshooting network issues
+- And more networking-related content
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages**: [List languages you know, e.g., Python, JavaScript, Java, etc.]
-- **Frameworks & Libraries**: [List frameworks you use, e.g., React, Django, TensorFlow, etc.]
-- **Tools & Platforms**: [List tools you use, e.g., Git, Docker, AWS, etc.]
-- **Other Skills**: [Any other relevant skills]
+- **Programming Languages**: C, C++, Python, Shell Scripting
+- **Networking**: TCP/IP, UDP, ICMP, DNS, HTTP, Socket Programming, Network Protocols
+- **Linux**: Kernel Development, Network Stack, eBPF, System Programming
+- **Tools & Platforms**: Git, Docker, Wireshark, tcpdump, Linux Performance Tools
+- **Other Skills**: Network Troubleshooting, Performance Optimization, Documentation
 
 ## 🎓 Education
 
