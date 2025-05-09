@@ -12,7 +12,7 @@
     <img src="https://i.postimg.cc/QMNJ3Dt7/bilibili.png" height="24" width="24" alt="Bilibili" />
   </a>&nbsp;&nbsp;
   <a href="https://i1to.github.io/" target="_blank">
-    <img src="https://i.postimg.cc/9fJr2D5K/blog.png" height="24" width="24" alt="Blog" />
+    <img src="Icons/blog.png" height="24" width="24" alt="Blog" />
   </a>&nbsp;&nbsp;
   <!-- You can add more social media icons here -->
 </div>
@@ -23,7 +23,7 @@ I'm a passionate Linux network developer specializing in network infrastructure 
 
 ## 📝 My Blog
 
-I maintain a technical blog at [i1to.github.io](https://i1to.github.io/) where I share insights, tutorials, and articles about Linux networking. Topics include:
+<img src="Icons/blog.png" height="20" width="20" alt="Blog" /> I maintain a technical blog at [i1to.github.io](https://i1to.github.io/) where I share insights, tutorials, and articles about Linux networking. Topics include:
 
 - Network protocol analysis
 - Linux kernel networking subsystem
@@ -81,7 +81,7 @@ These collections are merged from my [Archive repository](https://github.com/i1t
 
 - **Email**: [your-email@example.com]
 - **LinkedIn**: [Your LinkedIn Profile]
-- **Blog**: [i1to.github.io](https://i1to.github.io/)
+- **Blog**: <img src="Icons/blog.png" height="16" width="16" alt="Blog" /> [i1to.github.io](https://i1to.github.io/)
 
 ---
 
