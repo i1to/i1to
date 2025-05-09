@@ -64,7 +64,16 @@ I maintain a technical blog at [i1to.github.io](https://i1to.github.io/) where I
 - **Technologies Used**: List of technologies
 - **Link**: [GitHub Repo/Live Demo]
 
-## 📊 GitHub Stats
+## � Archive Collection
+
+This repository contains a collection of resources that I've gathered over time:
+
+- **[BOOKS](/BOOKS)**: A collection of technical books, papers, and reading materials related to Linux, networking, and programming.
+- **[MUSIC](/MUSIC)**: A selection of music files that I enjoy or find inspiring while coding.
+
+These collections are merged from my [Archive repository](https://github.com/i1to/Archive) and are continuously updated.
+
+## �📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=i1to&show_icons=true&theme=radical)
 
@@ -72,7 +81,7 @@ I maintain a technical blog at [i1to.github.io](https://i1to.github.io/) where I
 
 - **Email**: [your-email@example.com]
 - **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
+- **Blog**: [i1to.github.io](https://i1to.github.io/)
 
 ---
 
